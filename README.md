@@ -6,4 +6,4 @@
 
 Пропозиції по виправленням писати тут або на пошту 	semarg4@gmail.com
 
-Сказати дялкую можна тут https://www.buymeacoffee.com/semarg
+Сказати дякую можна тут https://www.buymeacoffee.com/semarg
