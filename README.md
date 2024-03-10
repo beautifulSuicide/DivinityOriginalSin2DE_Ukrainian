@@ -1,5 +1,6 @@
-# DivinityOriginalSin2DE_Ukrainian
-Неофіційний переклад текстів до Divinity original sin 2 DE
+# Divinity Original Sin 2DE Ukrainian
+(Divinity 2 UA, Ukraine, Divinity Origin Sin 2 localization)
+Неофіційний переклад українською текстів до Divinity original sin 2 DE
 
 За основу взято машинний переклад від https://www.nexusmods.com/divinityoriginalsin2definitiveedition/mods/432
 Внесено деякі виправлення та зміни
